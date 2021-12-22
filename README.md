@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Reljod!
 
-- 🔭 I’m currently working on FactSet as a Software Engineer
+- 🔭 I’m currently working in FactSet as a Software Engineer
 - 🌱 I’m currently learning building scalable backend applications in Golang and some frontend stuffs with Vue.js
 - ⚡ I'm interested in Tech stuffs like AI, Machine Learning, Blockchain, Robotics, Data Science and etc.
 
