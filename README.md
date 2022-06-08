@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Reljod!
 
 - 🔭 I’m currently working in Maya as a Fullstack Node.js Developer
-- 🌱 I’m currently learning building web applications in React, Next.js and FastAPI as backend.
+- 🌱 I’m currently building web applications in React, Next.js, Vue.js and FastAPI as backend.
 - ⚡ I'm interested in Tech stuffs like AI, Machine Learning, Blockchain, Robotics, Data Science and etc.
 
 <!--
