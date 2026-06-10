@@ -1,15 +1,10 @@
 ### Hi there 👋 I'm Reljod!
 
-- 🔭 I’m currently working in Maya as a Fullstack Node.js Developer
-- 🌱 I’m currently building web applications in React, Next.js, Vue.js and FastAPI as backend.
-- ⚡ I'm interested in Tech stuffs like AI, Machine Learning, Blockchain, Robotics, Data Science and etc.
+I am a Senior Full Stack and AI Software Engineer with seven years of experience in cloud architecture and machine learning. I specialize in building intelligent, scalable systems that solve real-world problems for MSMEs.
 
-Know more about me at my website [www.reljodoreta.com](https://www.reljodoreta.com) *in progress*.
-
-<!--
-**Reljod/Reljod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+- 🔭 **Currently Working On:** Building [kita-agents.dev](https://kita-agents.dev) to provide AI consultancy and autonomous solutions for small enterprises.
+- 🎯 **Current Focus:** Architecting agentic systems, implementing Graph RAG architectures, and optimizing vector database management.
+- 🛠 **Tech Stack:**
+    - **AI/ML:** LLM orchestration (CrewAI, LangGraph), Vector Search (MongoDB), Prompt Engineering.
+    - **Full Stack:** Python, Node.js, Next.js, React, and cloud-native backend services.
+- ⚡ **Interests:** Calisthenics, property development, and keeping up with the latest in AI research.
