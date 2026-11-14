@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Reljod%20Oreta&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20engineer%20for%20banks%20%26%20financial%20firms&descSize=18&descAlignY=58&animation=fadeIn" alt="Reljod Oreta, AI engineer for banks and financial firms" width="100%" />
+  <img src="./assets/header.svg" alt="Reljod Oreta, AI engineer for banks and financial firms" width="100%" />
 </p>
 
 <p align="center">
@@ -99,4 +99,4 @@ All demos run real models on synthetic data. **On the bench:** in-house KYC auto
   <a href="https://reljod.com"><b>Have manual review work that should be an AI pipeline? Let's talk at reljod.com →</b></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=110&section=footer" alt="" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
