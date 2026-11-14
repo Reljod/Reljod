@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="Reljod Labs at reljod.com: four live AI demos for financial services">
+  <style>
+    .bg{fill:#0d1117}.frame{fill:none;stroke:#30363d}
+    .t{fill:#e6edf3}.m{fill:#8b949e}.a{fill:#58a6ff}
+    .card{fill:#161b22;stroke:#30363d}
+    .card-g{animation:rise .8s ease-out both}
+    .c1{animation-delay:.2s}.c2{animation-delay:.45s}.c3{animation-delay:.7s}.c4{animation-delay:.95s}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+    .live{fill:#3fb950;animation:pulse 1.6s ease-in-out infinite}
+    .halo{fill:#3fb950;opacity:.35;transform-box:fill-box;transform-origin:center;animation:halo 1.6s ease-out infinite}
+    @keyframes pulse{50%{opacity:.45}}
+    @keyframes halo{from{transform:scale(1);opacity:.45}to{transform:scale(2.6);opacity:0}}
+    .wire{stroke:#30363d;stroke-width:2;fill:none;stroke-dasharray:4 6}
+    .flow{stroke:url(#g);stroke-width:2.5;fill:none;stroke-dasharray:40 760;animation:flow 4s linear infinite}
+    @keyframes flow{from{stroke-dashoffset:800}to{stroke-dashoffset:0}}
+    .cursor{fill:#58a6ff;animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset=".6" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient></defs>
+  <rect class="bg" width="860" height="330" rx="14"/><rect class="frame" x=".5" y=".5" width="859" height="329" rx="14"/>
+  <circle cx="28" cy="26" r="6" fill="#ff5f56"/><circle cx="48" cy="26" r="6" fill="#ffbd2e"/><circle cx="68" cy="26" r="6" fill="#27c93f"/>
+  <text x="430" y="31" text-anchor="middle" class="m" font-size="13">https://reljod.com</text>
+  <text x="40" y="82" class="t" font-size="28" font-weight="700">Reljod Labs</text>
+  <text x="40" y="110" class="m" font-size="16">AI you can run, not just read about<tspan class="a">.</tspan></text>
+  <rect class="cursor" x="310" y="96" width="9" height="18"/>
+  <text x="820" y="82" text-anchor="end" class="m" font-size="13">Synthetic data · real models</text>
+  <text x="820" y="104" text-anchor="end" class="a" font-size="13">for banks &amp; financial firms</text>
+  <path class="wire" d="M40 160 H820"/><path class="flow" d="M40 160 H820"/>
+  <g class="card-g c1"><rect class="card" x="40" y="180" width="180" height="116" rx="10"/>
+    <circle class="halo" cx="62" cy="202" r="5"/><circle class="live" cx="62" cy="202" r="5"/><text x="74" y="206" font-size="11" fill="#3fb950" font-weight="700">LIVE</text>
+    <text x="56" y="236" class="t" font-size="15" font-weight="600">Document</text><text x="56" y="255" class="t" font-size="15" font-weight="600">Compliance</text>
+    <text x="56" y="280" class="m" font-size="12">Screens onboarding packs</text></g>
+  <g class="card-g c2"><rect class="card" x="240" y="180" width="180" height="116" rx="10"/>
+    <circle class="halo" cx="262" cy="202" r="5"/><circle class="live" cx="262" cy="202" r="5"/><text x="274" y="206" font-size="11" fill="#3fb950" font-weight="700">LIVE</text>
+    <text x="256" y="236" class="t" font-size="15" font-weight="600">Ledger</text><text x="256" y="255" class="t" font-size="15" font-weight="600">the cat banker 🐈</text>
+    <text x="256" y="280" class="m" font-size="12">Ask it about me</text></g>
+  <g class="card-g c3"><rect class="card" x="440" y="180" width="180" height="116" rx="10"/>
+    <circle class="halo" cx="462" cy="202" r="5"/><circle class="live" cx="462" cy="202" r="5"/><text x="474" y="206" font-size="11" fill="#3fb950" font-weight="700">LIVE</text>
+    <text x="456" y="236" class="t" font-size="15" font-weight="600">Teller</text><text x="456" y="255" class="t" font-size="15" font-weight="600">Specialist desk</text>
+    <text x="456" y="280" class="m" font-size="12">Pension &amp; trust ops agent</text></g>
+  <g class="card-g c4"><rect class="card" x="640" y="180" width="180" height="116" rx="10"/>
+    <circle class="halo" cx="662" cy="202" r="5"/><circle class="live" cx="662" cy="202" r="5"/><text x="674" y="206" font-size="11" fill="#3fb950" font-weight="700">LIVE</text>
+    <text x="656" y="236" class="t" font-size="15" font-weight="600">Client Manager</text><text x="656" y="255" class="t" font-size="15" font-weight="600">GraphRAG</text>
+    <text x="656" y="280" class="m" font-size="12">Client graphs on Postgres</text></g>
+</svg>
